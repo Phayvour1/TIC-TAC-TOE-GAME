@@ -5,7 +5,7 @@
 
 }
 :root{
-    --winning-blocks: black;
+    --winning-blocks: rgb(244, 186, 114);
 }
 body{
     color: beige;
