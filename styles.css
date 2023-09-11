@@ -30,7 +30,8 @@ h1{
     width: 300px;
     display: flex;
     flex-wrap: wrap;
-    margin-top: 40px;
+    margin-top: 24px;
+    margin-bottom: 29px;
 }
 
 .box {
@@ -43,6 +44,7 @@ h1{
     font-size: 120px;
     border-right: 2px solid;
     border-bottom: 2px solid;
+    
    
 
 }
@@ -72,4 +74,19 @@ button {
 button:hover{
     cursor: pointer;
     transform: translateY(5px);
+}
+
+
+
+.space{
+    display: flex;
+    margin-right: 5px;
+    padding-bottom: 10px;
+    padding-left: 12px;
+    justify-content: space-between;
+}
+
+#turnIndicator{
+    margin-top: 20px;
+
 }
